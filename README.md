@@ -18,7 +18,7 @@ This work has been accepted by the SAT conference 2024. The USW-LS local search 
    
    USW-LS currently supports the format of instances for MaxSAT Evaluations before 2022.
 
-   To understand the format supported by NuWLS, please refer to the MaxSAT Evaluation 2022 rules
+   To understand the format supported by USW-LS (NuWLS-2023), please refer to the MaxSAT Evaluation 2022 rules
  (https://maxsat-evaluations.github.io/2022/rules.html#input).
 
 
